@@ -1,0 +1,15 @@
+1650338608035	geckodriver	INFO	Listening on 127.0.0.1:52738
+1650338611302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hhhoa\\AppData\\Local\\Temp\\rust_mozprofileJXHznD"
+1650338614787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hhhoa\\AppData\\Local\\Temp\\rust_mozprofileJXHznD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52739/devtools/browser/5ab86064-9496-435c-adec-92ef1282a9f0
+1650338642403	Marionette	INFO	Listening on port 52821
+Read port: 52821
+1650338652125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: undefined
+1650338727524	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jCkUzW4MJun-Op3iOFNjK-GGKJG_m8_dpwU-GZUxlWM.js line 1 > eval line 3038 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

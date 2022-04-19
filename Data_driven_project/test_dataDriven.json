@@ -1,0 +1,15 @@
+[
+    {
+        "test_id":"testcase1",
+        "url":"http://demo.guru99.com/V4/",
+        "username":"mgr123",
+        "passwd":"mgr!23"
+    },
+    {
+        "test_id":"testcase2",
+        "url":"https://student.husc.edu.vn/Account/Login",
+        "username":"17T1021094",
+        "passwd":"haihoahuynh5139"
+    }
+
+]
